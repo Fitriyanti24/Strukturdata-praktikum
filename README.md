@@ -1,0 +1,2 @@
+# Strukturdata-praktikum
+tugas pratikum
